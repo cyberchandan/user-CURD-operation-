@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-project",
+  "version": "1.0.0",
+  "description": "fullstack basic practice with data base curd operation",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "chandan kumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3",
+    "nodemon": "^3.1.10"
+  }
+}
